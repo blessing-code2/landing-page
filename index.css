@@ -52,7 +52,8 @@ body {
     font-size: 48px;
     font-weight: bold;
     color: #f9faf8;
-    /* margin-bottom: -8px; */
+    font-family: "Roboto", sans-serif;
+    margin-bottom: -8px;
 }
 
 .header-info p {
@@ -71,9 +72,8 @@ body {
 }
 
 .header-img {
-    /* width: 500px;
-    height: 200px; */
     border: 1px solid #e5e7eb;
+    border-radius: 2px;
 }
 .header-img img {
     width: 500px;
